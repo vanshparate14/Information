@@ -1,6 +1,6 @@
 # 🚀 Welcome to Vansh Parate's Universe!
 
-![Vansh Parate](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&random=false&width=435&height=45&duration=4000&lines=Computer+Science+Engineer;Full-Stack+Developer;AI+Enthusiast;Problem+Solver+Extraordinaire)
+![Vansh Parate](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&random=false&width=435&height=45&duration=4000&lines=Computer+Science+Engineer;Full-Stack+Developer;AI+Enthusiast;Problem+Solver+Extraordinaire;Interested+for+Cyber+Security)
 
 Hey there! 👋 I'm **Vansh Parate**, a passionate **Computer Science Engineer** turning code into magic. From algorithms that dance to systems that scale, I love building things that make the digital world spin faster. Currently diving deep into AI, cloud architectures, and full-stack wizardry.
 
@@ -12,11 +12,12 @@ Hey there! 👋 I'm **Vansh Parate**, a passionate **Computer Science Engineer**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Prolog](https://img.shields.io/badge/-Prolog-E87BFD?style=flat&logo=prolog&logoColor=black)
 
-- **Languages**: JavaScript, Python, Java, C++, Go
-- **Frameworks**: React, Node.js, Django, Spring Boot
+- **Languages**: JavaScript, Python, Java, C++, Prolog,
+- **Frameworks**: React, Node.js, Django
 - **Tools**: Docker, Kubernetes, Git, CI/CD, AWS/GCP
-- **Databases**: MongoDB, PostgreSQL, Redis, MySQL
+- **Databases**: MongoDB, MySQL
 
 ## 🔥 Featured Projects
 | Project | Description | Tech Stack | 
@@ -40,10 +41,6 @@ Hey there! 👋 I'm **Vansh Parate**, a passionate **Computer Science Engineer**
 - 💬 Ask me about **System Design**, **LeetCode**, or **Tech Stacks**
 - ⚡ Fun fact: I once optimized an algorithm to run 10x faster... during a hackathon coffee break! ☕⚡
 
-## 📫 Let's Connect!
-<a href=\"https://linkedin.com/in/vanshparate\"><img src=\"https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white\" alt=\"LinkedIn\"></a>
-<a href=\"https://twitter.com/vanshparate\"><img src=\"https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white\" alt=\"Twitter\"></a>
-<a href=\"mailto:vanshparate@email.com\"><img src=\"https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white\" alt=\"Email\"></a>
 
 **\"Code is like humor. When you have to explain it, it’s bad.\"** – Cory House
 
