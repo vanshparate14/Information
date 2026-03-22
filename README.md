@@ -2,7 +2,8 @@
 
 ![Vansh Parate](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&random=false&width=435&height=45&duration=4000&lines=Computer+Science+Engineer;Full-Stack+Developer;AI+Enthusiast;Problem+Solver+Extraordinaire;Interested+for+Cyber+Security)
 
-Hey there! 👋 I'm **Vansh Parate**, a passionate **Computer Science Engineer** turning code into magic. From algorithms that dance to systems that scale, I love building things that make the digital world spin faster. Currently diving deep into AI, cloud architectures, and full-stack wizardry.
+Hey there! 👋 I'm **Vansh Parate**, a passionate **Computer Science Engineer** turning code into magic. 
+Full Stack Developer | Handles 100 users at a time
 
 ## 🛠️ Tech Arsenal
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
