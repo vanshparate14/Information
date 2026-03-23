@@ -1,4 +1,4 @@
-# 🚀 Welcome to Vansh Parate's Universe!
+# 🚀 Welcome to Vansh Parate's Profile!
 
 ![Vansh Parate](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&random=false&width=435&height=45&duration=4000&lines=Computer+Science+Engineer;Full-Stack+Developer;AI+Enthusiast;Problem+Solver+Extraordinaire;Interested+for+Cyber+Security)
 
