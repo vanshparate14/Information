@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Software Developer Profile!
 
-![Vansh Parate](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&random=false&width=435&height=45&duration=4000&lines=Computer+Science+Engineer;Full-Stack+Developer;AI+Enthusiast;Problem+Solver+Extraordinaire;Interested+for+Cyber+Security)
+![Vansh Parate](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&random=false&width=435&height=45&duration=4000&lines=Computer+Science+Engineer;Full-Stack+Developer;AI+Enthusiast;Problem+Solver+Extraordinaire;Interested+for+Cyber+Security;Something+New+is+Coming+Stay+Tuned)
 
 Hey there! 👋 I'm **Vansh Parate**, a passionate **Computer Science Engineer** turning code into magic. 
 Full Stack Developer | Handles 100 users at a time
