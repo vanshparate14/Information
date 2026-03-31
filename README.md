@@ -21,7 +21,7 @@ Full Stack Developer | Handles 100 users at a time
 - **Databases**: MongoDB, MySQL
 
 ## 🔥 Featured Projects
-| Project | Description | Tech Stack | 
+| Project | Description | Technology Used | 
 |---------|-------------|------------|
 | **[AI Chatbot](https://github.com/vanshparate/ai-chatbot)** | Intelligent conversational AI with NLP | Python, TensorFlow, FastAPI |
 | **[E-Commerce Platform](https://github.com/vanshparate/ecommerce-app)** | Full-stack scalable shopping app | React, Node.js, MongoDB |
