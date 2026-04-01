@@ -17,8 +17,8 @@ Full Stack Developer | Handles 100 users at a time
 
 - **Languages**: JavaScript, Python, Java, C++, Prolog,
 - **Frameworks**: React, Node.js, Django
-- **Tools**: Docker, Kubernetes, Git, CI/CD, AWS/GCP
-- **Databases**: MongoDB, MySQL
+- **Tools**: VS Code, Git, CI/CD, AWS/GCP
+- **Databases**:MySQL
 
 ## 🔥 Featured Projects
 | Project | Description | Technology Used | 
